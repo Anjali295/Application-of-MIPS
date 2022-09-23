@@ -1,9 +1,3 @@
-################# Anjaliba Pradumansinh Jadeja #################
-################# ajadeja #################
-################# 114399786 #################
-################# DON'T FORGET TO ADD GITHUB USERNAME IN BRIGHTSPACE #################
-
-################# DO NOT CHANGE THE DATA SECTION #################
 
 .data
 arg1_addr: .word 0
